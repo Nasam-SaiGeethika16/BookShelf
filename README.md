@@ -6,25 +6,38 @@ Browse, search, and purchase books, manage your cart and wishlist, and enjoy a s
 
 🚀 Features
 
-   🔐 User authentication (register, login, logout)
+      🔐 User authentication (register, login, logout)
+      
+      🌗 Light/dark theme with system preference
+      
+      📖 Browse, search, and filter books by genre
+      
+      🛒 Add books to cart, wishlist, and place orders
+      
+      ⭐ Review and rate books after purchase
+      
+      🛠️ Admin dashboard for managing books, orders, and users
+      
+      📱 Responsive, modern UI/UX
+      
+      🔔 Toast notifications for actions
+      
+      🛡️ Secure backend with JWT authentication
+      
+      ☁️ Deployed frontend and backend
    
-   🌗 Light/dark theme with system preference
-   📖 Browse, search, and filter books by genre
-   🛒 Add books to cart, wishlist, and place orders
-   ⭐ Review and rate books after purchase
-   🛠️ Admin dashboard for managing books, orders, and users
-   📱 Responsive, modern UI/UX
-   🔔 Toast notifications for actions
-   🛡️ Secure backend with JWT authentication
-   ☁️ Deployed frontend and backend
 
 
 🛠️ Tech Stack
 
-   **Frontend:** React, Tailwind CSS, Redux Toolkit
-   **Backend:** Node.js, Express.js, MongoDB (Mongoose)
-   **Authentication:** JWT, bcrypt
-   **Deployment:** Vercel (frontend), Render (backend), MongoDB Atlas
+      **Frontend:** React, Tailwind CSS, Redux Toolkit
+      
+      **Backend:** Node.js, Express.js, MongoDB (Mongoose)
+      
+      **Authentication:** JWT, bcrypt
+      
+      **Deployment:** Vercel (frontend), Render (backend), MongoDB Atlas
+      
 
 
 📝 Getting Started
