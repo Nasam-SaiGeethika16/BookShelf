@@ -7,6 +7,7 @@ Browse, search, and purchase books, manage your cart and wishlist, and enjoy a s
 🚀 Features
 
    🔐 User authentication (register, login, logout)
+   
    🌗 Light/dark theme with system preference
    📖 Browse, search, and filter books by genre
    🛒 Add books to cart, wishlist, and place orders
