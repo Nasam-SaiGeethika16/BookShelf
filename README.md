@@ -30,13 +30,13 @@ Browse, search, and purchase books, manage your cart and wishlist, and enjoy a s
 
 🛠️ Tech Stack
 
-      **Frontend:** React, Tailwind CSS, Redux Toolkit
-      
-      **Backend:** Node.js, Express.js, MongoDB (Mongoose)
-      
-      **Authentication:** JWT, bcrypt
-      
-      **Deployment:** Vercel (frontend), Render (backend), MongoDB Atlas
+**Frontend:** React, Tailwind CSS, Redux Toolkit
+
+**Backend:** Node.js, Express.js, MongoDB (Mongoose)
+
+**Authentication:** JWT, bcrypt
+
+**Deployment:** Vercel (frontend), Render (backend), MongoDB Atlas
       
 
 
