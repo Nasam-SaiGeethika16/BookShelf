@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body, html, #root {
+  font-family: 'Segoe UI', 'Roboto', 'Arial', sans-serif;
+  overflow-x: hidden;
+}
+
+/* Swiper navigation alignment for vertical centering */
+.swiper-button-next, .swiper-button-prev {
+  top: 50% !important;
+  transform: translateY(-50%) !important;
+  z-index: 10;
+}
+.swiper-button-prev {
+  left: 0 !important;
+}
+.swiper-button-next {
+  right: 0 !important;
+}
