@@ -6,25 +6,25 @@ Browse, search, and purchase books, manage your cart and wishlist, and enjoy a s
 
 🚀 Features
 
-      🔐 User authentication (register, login, logout)
+      1.🔐 User authentication (register, login, logout)
       
-      🌗 Light/dark theme with system preference
+      2.🌗 Light/dark theme with system preference
       
-      📖 Browse, search, and filter books by genre
+      3.📖 Browse, search, and filter books by genre
       
-      🛒 Add books to cart, wishlist, and place orders
+      4.🛒 Add books to cart, wishlist, and place orders
       
-      ⭐ Review and rate books after purchase
+      5.⭐ Review and rate books after purchase
       
-      🛠️ Admin dashboard for managing books, orders, and users
+      6.🛠️ Admin dashboard for managing books, orders, and users
       
-      📱 Responsive, modern UI/UX
+      7.📱 Responsive, modern UI/UX
       
-      🔔 Toast notifications for actions
+      8.🔔 Toast notifications for actions
       
-      🛡️ Secure backend with JWT authentication
+      9.🛡️ Secure backend with JWT authentication
       
-      ☁️ Deployed frontend and backend
+      10.☁️ Deployed frontend and backend
    
 
 
